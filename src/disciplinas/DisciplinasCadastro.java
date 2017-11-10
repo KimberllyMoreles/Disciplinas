@@ -206,6 +206,7 @@ public class DisciplinasCadastro extends javax.swing.JFrame {
 
     private void jBtnSalvarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBtnSalvarActionPerformed
         // TODO add your handling code here:
+        
     }//GEN-LAST:event_jBtnSalvarActionPerformed
 
     /**
